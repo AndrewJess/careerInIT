@@ -10,7 +10,9 @@ let outputWith = workWith[Math.floor(Math.random() * 3)];
 console.log(outputEnvironment);
 console.log(outputWith);*/
 
-console.log(`By choosing a new career in I.T you will learn amazing skills with coding languages like ${outputLang}. This will help you to complete amazing projects ${outputWith} in different environments including ${outputEnvironment}!`)
+console.log(`#Why Choose A Carrer in IT?
+        *By choosing a new career in I.T you will learn amazing skills with coding languages like ${outputLang}. 
+        *This will help you to complete amazing projects ${outputWith} in different environments including ${outputEnvironment}!`)
 
 
 
